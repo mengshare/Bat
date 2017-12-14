@@ -3,3 +3,4 @@ test/
 获取连接过的wifi密码/save.txt
 Open_wifi/wifi.vbs
 Open_wifi/wifeOnPoweron.bat
+Open_wifi/wifiOnPoweron.bat
